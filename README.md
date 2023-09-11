@@ -1,8 +1,3 @@
-### Hi there 👋
-Here are some ideas to get you started:
+### WarBound in Development
 
-- 🔭 I’m currently working on Okicraft
-- 🌱 I’m currently learning Coding
-- 👯 I’m looking to collaborate on Github
-- 💬 Ask me about Okicraft
 -->
