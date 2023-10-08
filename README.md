@@ -1,3 +1,3 @@
-### Eaglercraft 1.14 in Development
+### HEX Client 1.14 in Development
 
 -->
