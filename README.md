@@ -1,6 +1,6 @@
 Hey Mate, I’m AR-DEV-1, your go-to tech guy. I’m a programmer, developer, hacker dude, you get the idea. 😎
 
-This channel is all about tech: from AI tools and coding tips to game development and hardware deep dives. If it’s cutting-edge and exciting, I’m on it.
+This is all about tech: from AI tools and coding tips to game development and hardware deep dives. If it’s cutting-edge and exciting, I’m on it.
 
 💡 What you’ll find here:
 
