@@ -12,7 +12,7 @@ I mostly use C, C++, HTML, CSS, JS & Python!
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on a video game!
+👩‍💻 I'm currently working on a video game! Also, mining XMR!
 
 🧠 I'm currently learning Python, How game engines work, Graphics API's & etc!
 
@@ -28,6 +28,15 @@ I mostly use C, C++, HTML, CSS, JS & Python!
 
 ⚡️ Fun fact: I learned programming in C or C++ when I was 9 or 10. I'm not even that old yet!
 
+## Donate to me:
+
+XMR (Monero):
+###
+<img width="240" height="240" alt="ARDEVFUNDQRCODE" src="https://github.com/user-attachments/assets/8abbefaf-548a-436b-9f69-65732cf12fe2" />
+
+###
+or
+83fhkHFHJNjZBTPNXh9zp53WMA65jYcQe5X4ZK38DXJPbB6JHCBqXocXKQTssLjYDXPG3opceQVuA77PjCDaggmQ9nA9tCk
 
 ## Looks like it's the end
 ¯\ _ (ツ) _/¯
