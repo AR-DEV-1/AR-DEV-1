@@ -26,7 +26,7 @@ I mostly use C, C++, HTML, CSS, JS & Python!
 
 😄 Pronouns: he/him/dev
 
-⚡️ Fun fact: I learned programming in C or C++ when I was 9 or 10. I'm not even that old yet!
+⚡️ Fun fact: I learned programming in C or C++ when I was 9 or 10.
 
 ## Donate to me:
 
