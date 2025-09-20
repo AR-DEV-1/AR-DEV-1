@@ -8,11 +8,11 @@ I'm a guy who loves coding & making random videos on his YouTube channel.
 
 
 ## Skills ╰(*°▽°*)╯ 
-I mostly use C, C++, HTML, CSS, JS & Python!
+I mostly use C, C++, HTML, CSS, JS, Python & GDScript!
 
 
 ## Other Common Github Profile Sections that everyone uses
-👩‍💻 I'm currently working on a video game! Also, mining XMR!
+👩‍💻 I'm currently working on a video game!
 
 🧠 I'm currently learning Python, How game engines work, Graphics API's & etc!
 
