@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AR-DEV-1&color=red&style=flat)
 
-- I'm currently working on: Draconic, Redot & The Last Bean (a survival-like)
+- I'm currently working on: Draconic, Redot & a videogame
 - I use: VSCode, C, C++ & C#
 
 ## How to reach me:
